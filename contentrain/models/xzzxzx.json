@@ -8,5 +8,14 @@
     "componentId": "single-line-text",
     "modelId": "xzzxzx",
     "fieldType": "string"
+  },
+  {
+    "name": "xZXZXddd",
+    "fieldId": "xzxzxddd",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "xzzxzx",
+    "fieldType": "number"
   }
 ]
