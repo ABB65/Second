@@ -17,5 +17,14 @@
     "componentId": "integer",
     "modelId": "xzzxzx",
     "fieldType": "number"
+  },
+  {
+    "name": "dasdasdasd",
+    "fieldId": "dasdasdasd",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "xzzxzx",
+    "fieldType": "number"
   }
 ]
