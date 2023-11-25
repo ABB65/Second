@@ -32,5 +32,19 @@
     "componentId": "rich-text-editor",
     "modelId": "products",
     "fieldType": "string"
+  },
+  {
+    "name": "image",
+    "description": "Product image url.",
+    "fieldId": "image",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "componentId": "url",
+    "modelId": "products",
+    "fieldType": "string"
   }
 ]
