@@ -22,5 +22,15 @@
     "componentId": "multi-line-text",
     "modelId": "products",
     "fieldType": "string"
+  },
+  {
+    "name": "banner",
+    "description": "Custom product banner content",
+    "fieldId": "banner",
+    "validations": {},
+    "options": {},
+    "componentId": "rich-text-editor",
+    "modelId": "products",
+    "fieldType": "string"
   }
 ]
