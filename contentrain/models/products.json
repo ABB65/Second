@@ -1,0 +1,16 @@
+[
+  {
+    "name": "name",
+    "description": "Product name area",
+    "fieldId": "name",
+    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "componentId": "single-line-text",
+    "modelId": "products",
+    "fieldType": "string"
+  }
+]
